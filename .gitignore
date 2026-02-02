@@ -1,1 +1,5 @@
 .vscode/
+*.mp4
+*.MOV
+*.bag
+.DS_Store
