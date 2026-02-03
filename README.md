@@ -15,3 +15,6 @@ This project focuses on real-time visual motion compensation. By analyzing the v
 ## 📁 Project Structure
 - `main.py`: Real-time motion analysis and compensation algorithm.
 - `requirements.txt`: List of dependencies.
+- data/: Raw motion logs (CSV files with $dx, dy$ values).
+- graphs/: Visualization graphs 
+image.png
