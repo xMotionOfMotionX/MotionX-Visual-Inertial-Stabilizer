@@ -17,5 +17,5 @@ plt.legend()
 plt.grid(True, linestyle='--', alpha=0.5)
 
 # 4. 저장 및 출력
-plt.savefig('motion_analysis_result.png') # 깃허브에 올릴 이미지 파일
+plt.savefig('graphs/motion_analysis_result.png') # 깃허브에 올릴 이미지 파일
 plt.show()
