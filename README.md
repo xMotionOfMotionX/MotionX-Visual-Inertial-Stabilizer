@@ -17,4 +17,4 @@ This project focuses on real-time visual motion compensation. By analyzing the v
 - `requirements.txt`: List of dependencies.
 - data/: Raw motion logs (CSV files with $dx, dy$ values).
 - graphs/: Visualization graphs 
-image.png
+<img width="578" height="270" alt="image" src="https://github.com/user-attachments/assets/76e31050-5f63-43dd-85ad-53dcfc3de2a1" />
