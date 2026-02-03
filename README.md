@@ -17,4 +17,15 @@ This project focuses on real-time visual motion compensation. By analyzing the v
 - `requirements.txt`: List of dependencies.
 - data/: Raw motion logs (CSV files with $dx, dy$ values).
 - graphs/: Visualization graphs 
-<img width="578" height="270" alt="image" src="https://github.com/user-attachments/assets/76e31050-5f63-43dd-85ad-53dcfc3de2a1" />
+
+
+
+[Winning Point]
+- Universal Middleware: With Jetson, it can be connected to any simulator or car data
+
+- Edge AI Optimization: With the Use of GPU, Optical Flow can be calculated in real time, which allows accurate compensation.
+
+- Safety Layer: Not only anti motion sickness but also detecting dangerous motion to stop the car for safety.
+
+"MotionX는 단순히 멀미를 줄이는 도구가 아닙니다. 차량의 물리적 관성(Inertia)과 승객의 시각적 경험(Visual)을 연결하는 표준 운영 체제를 지향합니다."
+
